@@ -1,0 +1,14 @@
+sudo get upgrade 
+Apt-get install ufw
+ufw enable 
+ufw deny incoming 
+ufw allow outgoing 
+apt install libgtk-2.0-dev
+git clone https://github.com/asbestomolesto/mindguard
+ git clone https://github.com/hrtywhy/Hanoman
+git clone https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project
+git clone https://github.com/ooni/probe
+>file
+♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡♧♤♡◇
+really sorry for fucking you up, please don't allow skull and crossbones to be in charge. 
+you are exploding octopus 
